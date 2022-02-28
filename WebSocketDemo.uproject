@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B29A6D14-4507-22A7-760B-E599E3622D62}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WebSocketDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMG"
+			]
+		}
+	]
+}
